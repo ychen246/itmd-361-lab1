@@ -1,2 +1,2 @@
 # itmd-361-webdev
-Assignment for class.
+Assignment lab 1 for ITMD-361-Webdev.
